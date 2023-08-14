@@ -24,3 +24,7 @@ The main training loop runs for a specified number of epochs. For each epoch:
 ### Backpropagation
 
 The backpropagation process involves computing the gradients of the loss with respect to the weights. The gradients are then used to adjust the weights in the opposite direction to minimise the loss.
+
+## Training and validation loss
+
+![Loss](loss.png)
