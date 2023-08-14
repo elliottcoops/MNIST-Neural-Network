@@ -6,7 +6,7 @@ This repository contains an implementation of training a neural network using ba
 
 ## Key features
 
-- Coded by me from scatch in Python
+- Coded by me from scratch in Python
 - Supports any network architecture
 - Tested using the MNIST digits dataset
 - Uses both training and validation datasets
